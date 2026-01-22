@@ -96,6 +96,26 @@ I have demonstrated strong capabilities in academic competitions and research. N
   </div>
 </div>
 
+
+# 🎖 Honors and Awards {#honors-and-awards}
+
+**International & National**
+- *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
+- *2024* **National Scholarship** (Ministry of Education of China).
+- *2023* **National Scholarship** (Ministry of Education of China).
+- *2025* **Successful Participant (S Prize)**, MCM/ICM (Mthematical Contest in Modeling).
+
+**Provincial & Regional**
+- *2025* **First Prize**, Lanqiao Cup National Software Talent Competition (C/C++, Tianjin Area).
+- *2024* **Second Prize**, Tianjin Mathematics Competition (Science & Engineering Group).
+- *2024* **First Prize**, Tianjin Arts Performance (Orchestra).
+
+# 🌟 Leadership & Activities {#leadership-and-activities}
+- *2025.09 - Present*: **President**, Student Union, School of Computer Science and Technology, TJU.
+- *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
+- *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
+- *2025.05*: **Champion**, TJU Chess Competition (International Chess).
+
 # 📖 Educations {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
   - **Program**: Top Talent Training Plan 2.0 (Bajian Class).

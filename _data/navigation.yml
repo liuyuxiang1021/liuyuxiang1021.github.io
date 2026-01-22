@@ -11,6 +11,12 @@ main:
 
   - title: "Research Projects & Competitions"
     url: "/#research-projects-and-competitions"
-    
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Leadership & Activities"
+    url: "/#leadership-and-activities"
+
   - title: "Educations"
     url: "/#educations"
