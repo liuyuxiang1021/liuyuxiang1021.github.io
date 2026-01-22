@@ -28,9 +28,9 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **My Email:** lyx1021@tju.edu.cn
 
 # 🔥 News {#news}
-- *2025.12*: &nbsp;🎖️ Awarded the **National Scholarship** for the academic year 2024-2025.
+- *2025.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2024-2025.
 - *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
-- *2024.12*: &nbsp;🎖️ Awarded the **National Scholarship** for the academic year 2023-2024.
+- *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
 
 # 📝 Publications {#publications}
 
@@ -97,7 +97,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 </div>
 
 
-# 🎖 Honors and Awards {#honors-and-awards}
+# 🏅 Honors and Awards {#honors-and-awards}
 
 **International & National**
 - *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
