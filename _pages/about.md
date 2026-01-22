@@ -27,12 +27,23 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 **My Email:** lyx1021@tju.edu.cn
 
-# 🔥 News
+# 🔥 News {#news}
 - *2025.12*: &nbsp;🎖️ Awarded the **National Scholarship** for the academic year 2024-2025.
 - *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
 - *2024.12*: &nbsp;🎖️ Awarded the **National Scholarship** for the academic year 2023-2024.
 
-# 🔬 Research Projects & Competitions
+# 📝 Publications {#publications}
+
+- [**Robust Camera Pose Estimation and 3D Human Reconstruction for Sports Events**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf)
+  <br>
+  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, Kun Li
+  <br>
+  *Technical Report for FIFA Skeleton Light Challenge 2025*
+  - Proposed a method extending the **RCR (Robust Crowd Reconstruction)** framework to video inputs for sports events.
+  - Designed a relative camera pose search algorithm with a fast line projector to achieve robustness and efficiency.
+  - Refined 3D HVIP to ensure the consistency of human movement and extracted 3D skeletons from SMPL parameters.
+
+# 🔬 Research Projects & Competitions {#research-projects-and-competitions}
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -72,23 +83,21 @@ I have demonstrated strong capabilities in academic competitions and research. N
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Project Leader</div>
-      <img src='images/multimodal_project.png' alt="Image Stitching" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=multimodal_project'">
-    </div>
-  </div>
   <div class='paper-box-text' markdown="1">
   
   **Multimodal Data Modeling & Knowledge Discovery**
   
-  **National Innovation Training Program** (2024.04 - 2025.04)
-  - Core Member. Advisor: Prof. Yu Wang.
+  **National Innovation and Entrepreneurship Training Program** (2024.04 - 2025.04)
+  
+  - **Core Member**. Advisor: Prof. Yu Wang.
+  - **Status:** Completed (One-year Project).
   - Implemented YOLO-based algorithms for license plate recognition under challenging conditions (high angle, blur, low light).
+  - Achieved high accuracy in complex environments.
   </div>
 </div>
 
-# 🎖 Honors and Awards
+
+# 🎖 Honors and Awards {#honors-and-awards}
 
 **International & National**
 - *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
@@ -101,12 +110,12 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024* **Second Prize**, Tianjin Mathematics Competition (Science & Engineering Group).
 - *2024* **First Prize**, Tianjin Arts Performance (Orchestra).
 
-# 🌟 Leadership & Activities
+# 🌟 Leadership & Activities {#leadership-and-activities}
 - *2025.09 - Present*: **President**, Student Union, School of Computer Science and Technology, TJU.
 - *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
 - *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
 - *2025.05*: **Champion**, TJU Chess Competition (International Chess).
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
   - **Program**: Top Talent Training Plan 2.0 (Bajian Class).
