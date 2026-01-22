@@ -17,42 +17,96 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a third-year undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**. 
 
+My research interests include **Computer Vision**, **3D Reconstruction**, and **Embodied AI**. I am actively involved in research under the supervision of Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html).
+
+I have demonstrated strong capabilities in academic competitions and research. Notably, my team won the **Champion** in the Skeleton Tracking Challenge at **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also been awarded the **National Scholarship** for two consecutive years.
+
+**My Email:** lyx1021@tju.edu.cn
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎖️ Awarded the **National Scholarship** for the academic year 2024-2025.
+- *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
+- *2024.12*: &nbsp;🎖️ Awarded the **National Scholarship** for the academic year 2023-2024.
 
-# 📝 Publications 
+# 🔬 Research Projects & Competitions
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR Winner</div>
+      <img src='images/g3p_champion.png' alt="G3P Challenge" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=CVPR+Winner'">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Champion of FIFA Innovation Challenge Skeleton Tracking Light**
+  
+  [**CVPR 2025 Global 3D Human Poses (G3P) Workshop**](https://g3p-workshop.github.io/)
+  
+  - Achieved **Rank 1** on the leaderboard. Invited to deliver the Winner Talk.
+  - Developed a robust method for 3D skeleton tracking in complex unstructured scenarios.
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Project Leader</div>
+      <img src='images/image_stitching_project.png' alt="Image Stitching" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=Image+Stitching'">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Unstructured Large Scene Light Field Image Stitching**
+  
+  **National Innovation and Entrepreneurship Training Program** (2024.08 - Present)
+  
+  - Advisor: Prof. Kun Li and Assistant Researcher. Jian Ma.
+  - Focusing on Trusted Projection and 3D Reconstruction for large-scale scenes.
+  - Investigating algorithms for non-structured light field data processing.
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Project Leader</div>
+      <img src='images/multimodal_project.png' alt="Image Stitching" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=multimodal_project'">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Multimodal Data Modeling & Knowledge Discovery**
+  
+  **National Innovation Training Program** (2024.04 - 2025.04)
+  - Core Member. Advisor: Prof. Yu Wang.
+  - Implemented YOLO-based algorithms for license plate recognition under challenging conditions (high angle, blur, low light).
+  </div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+**International & National**
+- *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
+- *2024* **National Scholarship** (Ministry of Education of China).
+- *2023* **National Scholarship** (Ministry of Education of China).
+- *2025* **Successful Participant (S Prize)**, MCM/ICM (Mthematical Contest in Modeling).
+
+**Provincial & Regional**
+- *2025* **First Prize**, Lanqiao Cup National Software Talent Competition (C/C++, Tianjin Area).
+- *2024* **Second Prize**, Tianjin Mathematics Competition (Science & Engineering Group).
+- *2024* **First Prize**, Tianjin Arts Performance (Orchestra).
+
+# 🌟 Leadership & Activities
+- *2025.09 - Present*: **President**, Student Union, School of Computer Science and Technology, TJU.
+- *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
+- *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
+- *2025.05*: **Champion**, TJU Chess Competition (International Chess).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
+  - **Program**: Top Talent Training Plan 2.0 (Bajian Class).
