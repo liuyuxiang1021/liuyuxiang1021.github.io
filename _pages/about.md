@@ -85,7 +85,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
   **Champion of FIFA Innovation Challenge Skeleton Tracking Light**
   
-  [**CVPR 2025 Global 3D Human Poses (G3P) Workshop**](https://g3p-workshop.github.io/)
+  [**CVPR 2025 Global 3D Human Poses (G3P) Workshop**](https://g3p-workshop.github.io/) &nbsp;\[[**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
   
   - Achieved **Rank 1** on the leaderboard. Invited to deliver the Winner Talk.
   - Developed a robust method for 3D skeleton tracking in complex unstructured scenarios.
