@@ -28,11 +28,21 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **My Email:** lyx1021@tju.edu.cn
 
 # 🔥 News {#news}
+- *2026.04*: &nbsp;📄 New preprint released: [**EgoTSR**](https://arxiv.org/abs/2604.10517) — Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning.
 - *2025.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2024-2025.
 - *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
 - *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
 
 # 📝 Publications {#publications}
+
+- [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
+  <br>
+  Xiaoda Yang, **Yuxiang Liu**, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao
+  <br>
+  *arXiv preprint, 2026*
+  - Proposed **EgoTSR**, a curriculum-based framework for learning task-oriented spatiotemporal reasoning that evolves from explicit spatial understanding to long-horizon planning.
+  - Constructed **EgoTSR-Data**, a large-scale dataset comprising 46 million samples organized into three stages: CoT supervision, weakly supervised tagging, and long-horizon sequences.
+  - Achieved **92.4% accuracy** on long-horizon logical reasoning tasks, significantly outperforming existing open-source and closed-source state-of-the-art models.
 
 - [**Robust Camera Pose Estimation and 3D Human Reconstruction for Sports Events**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf)
   <br>
@@ -44,6 +54,25 @@ I have demonstrated strong capabilities in academic competitions and research. N
   - Refined 3D HVIP to ensure the consistency of human movement and extracted 3D skeletons from SMPL parameters.
 
 # 🔬 Research Projects & Competitions {#research-projects-and-competitions}
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint</div>
+      <img src='images/paper-egotsr/egotsr_thumbnail.png' alt="EgoTSR" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=EgoTSR'">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **EgoTSR: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**
+  
+  [arXiv 2604.10517](https://arxiv.org/abs/2604.10517) (2026.04)
+  
+  - Proposed a curriculum-based framework that evolves from explicit spatial understanding to internalized task-state assessment and long-horizon planning.
+  - Constructed EgoTSR-Data with **46 million samples** across three stages: CoT supervision, weakly supervised tagging, and long-horizon sequences.
+  - Achieved **92.4% accuracy** on long-horizon logical reasoning, outperforming existing SOTA models.
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
