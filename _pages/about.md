@@ -37,9 +37,9 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
   <br>
-  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao (\* equal contribution)
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup> (\* equal contribution, <sup>†</sup> corresponding author)
   <br>
-  *ICML 2026*
+  *ICML 2026* &nbsp;\[[**Code**](https://github.com/Collab-Gen/EgoTSR)\]
   - Proposed **EgoTSR**, a curriculum-based framework for learning task-oriented spatiotemporal reasoning that evolves from explicit spatial understanding to long-horizon planning.
   - Constructed **EgoTSR-Data**, a large-scale dataset comprising 46 million samples organized into three stages: CoT supervision, weakly supervised tagging, and long-horizon sequences.
   - Achieved **92.4% accuracy** on long-horizon logical reasoning tasks, significantly outperforming existing open-source and closed-source state-of-the-art models.
@@ -115,7 +115,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   <div class='paper-box-image'>
     <div>
       <div class="badge">Project</div>
-      <img src='images/multimodal_project.png' alt="Multimodal Project" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=Multimodal'">
+      <img src='images/project-multimodal.png' alt="Multimodal Project" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=Multimodal'">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
