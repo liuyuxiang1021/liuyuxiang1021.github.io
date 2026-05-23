@@ -39,7 +39,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   <br>
   Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup> (\* equal contribution, <sup>†</sup> corresponding author)
   <br>
-  *ICML 2026* &nbsp;\[[**Code**](https://github.com/Collab-Gen/EgoTSR)\]
+  *ICML 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2604.10517) | [**Code**](https://github.com/Collab-Gen/EgoTSR)\]
   - Proposed **EgoTSR**, a curriculum-based framework for learning task-oriented spatiotemporal reasoning that evolves from explicit spatial understanding to long-horizon planning.
   - Constructed **EgoTSR-Data**, a large-scale dataset comprising 46 million samples organized into three stages: CoT supervision, weakly supervised tagging, and long-horizon sequences.
   - Achieved **92.4% accuracy** on long-horizon logical reasoning tasks, significantly outperforming existing open-source and closed-source state-of-the-art models.
@@ -48,7 +48,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   <br>
   Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, Kun Li
   <br>
-  *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
+  *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Paper**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf) | [**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
   - Proposed a method extending the **RCR (Robust Crowd Reconstruction)** framework to video inputs for sports events.
   - Designed a relative camera pose search algorithm with a fast line projector to achieve robustness and efficiency.
   - Refined 3D HVIP to ensure the consistency of human movement and extracted 3D skeletons from SMPL parameters.
