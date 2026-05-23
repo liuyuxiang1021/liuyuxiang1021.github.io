@@ -48,7 +48,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   <br>
   Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, Kun Li
   <br>
-  *Technical Report for FIFA Skeleton Light Challenge 2025*
+  *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
   - Proposed a method extending the **RCR (Robust Crowd Reconstruction)** framework to video inputs for sports events.
   - Designed a relative camera pose search algorithm with a fast line projector to achieve robustness and efficiency.
   - Refined 3D HVIP to ensure the consistency of human movement and extracted 3D skeletons from SMPL parameters.
