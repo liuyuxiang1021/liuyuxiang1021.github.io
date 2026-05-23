@@ -28,7 +28,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **My Email:** lyx1021@tju.edu.cn
 
 # 🔥 News {#news}
-- *2026.04*: &nbsp;📄 New preprint released: [**EgoTSR**](https://arxiv.org/abs/2604.10517) — Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning.
+- *2026.04*: &nbsp;🎉 Paper accepted by **ICML 2026**: [**EgoTSR**](https://arxiv.org/abs/2604.10517) — Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning.
 - *2025.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2024-2025.
 - *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
 - *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
@@ -39,7 +39,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   <br>
   Xiaoda Yang, **Yuxiang Liu**, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao
   <br>
-  *arXiv preprint, 2026*
+  *ICML 2026*
   - Proposed **EgoTSR**, a curriculum-based framework for learning task-oriented spatiotemporal reasoning that evolves from explicit spatial understanding to long-horizon planning.
   - Constructed **EgoTSR-Data**, a large-scale dataset comprising 46 million samples organized into three stages: CoT supervision, weakly supervised tagging, and long-horizon sequences.
   - Achieved **92.4% accuracy** on long-horizon logical reasoning tasks, significantly outperforming existing open-source and closed-source state-of-the-art models.
@@ -58,7 +58,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">ICML 2026</div>
       <img src='images/paper-egotsr/egotsr_thumbnail.png' alt="EgoTSR" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=EgoTSR'">
     </div>
   </div>
@@ -112,12 +112,18 @@ I have demonstrated strong capabilities in academic competitions and research. N
 </div>
 
 <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Project</div>
+      <img src='images/multimodal_project.png' alt="Multimodal Project" width="100%" onerror="this.src='https://dummyimage.com/500x300/e0e0e0/000000.png&text=Multimodal'">
+    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
-  
+
   **Multimodal Data Modeling & Knowledge Discovery**
-  
+
   **National Innovation and Entrepreneurship Training Program** (2024.04 - 2025.04)
-  
+
   - **Core Member**. Advisor: Prof. Yu Wang.
   - **Status:** Completed (One-year Project).
   - Implemented YOLO-based algorithms for license plate recognition under challenging conditions (high angle, blur, low light).
@@ -129,6 +135,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 # 🏅 Honors and Awards {#honors-and-awards}
 
 **International & National**
+- *2026* **Paper Accepted**, ICML 2026.
 - *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
 - *2024* **National Scholarship** (Ministry of Education of China).
 - *2023* **National Scholarship** (Ministry of Education of China).
