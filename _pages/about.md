@@ -37,7 +37,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
   <br>
-  Xiaoda Yang, **Yuxiang Liu**, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao (\* equal contribution)
   <br>
   *ICML 2026*
   - Proposed **EgoTSR**, a curriculum-based framework for learning task-oriented spatiotemporal reasoning that evolves from explicit spatial understanding to long-horizon planning.
