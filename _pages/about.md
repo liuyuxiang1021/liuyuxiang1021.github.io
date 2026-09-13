@@ -186,3 +186,4 @@ I have demonstrated strong capabilities in academic competitions and research. N
 # 📖 Educations {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
   - **Program**: Top Talent Training Plan 2.0 (Bajian Class).
+- *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School (山东省青岛第二中学)**.
