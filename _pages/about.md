@@ -28,12 +28,22 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **My Email:** lyx1021@tju.edu.cn
 
 # 🔥 News {#news}
+- *2026.08*: &nbsp;🚀 Released [**TurboT2VA**](https://arxiv.org/abs/2608.24674), our framework for fast joint text-to-video-audio generation, achieving **54.67× generator-only speedup** at high resolution on a single NVIDIA H20.
 - *2026.05*: &nbsp;🎉 Paper accepted by **ICML 2026**: [**EgoTSR**](https://arxiv.org/abs/2604.10517) — Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning.
 - *2025.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2024-2025.
 - *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
 - *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
 
 # 📝 Publications {#publications}
+
+- [**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**](https://arxiv.org/abs/2608.24674)
+  <br>
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, Jintao Zhang<sup>†</sup>, Jun Zhu<sup>†</sup>, Zhou Zhao<sup>†</sup> (\* equal contribution, <sup>†</sup> corresponding authors)
+  <br>
+  *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2608.24674) | [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va)\]
+  - Proposed **TurboT2VA**, a score-regularized consistency distillation framework that accelerates a **19B-parameter** joint video-audio model while preserving quality, diversity, and synchronization.
+  - Distilled a **40-step teacher into a 4-step student** with progressive discrete consistency warm-up, continuous consistency refinement, and joint consistency–distribution matching, achieving **20.1× generator speedup** at 512×768 resolution.
+  - Combined W8A8 quantization, fused operators, and modality-aware sparse attention to achieve **54.67× generator-only speedup** at 1024×1792 resolution on a single **NVIDIA H20** (318.74s → 5.83s).
 
 - [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
   <br>
@@ -54,6 +64,27 @@ I have demonstrated strong capabilities in academic competitions and research. N
   - Refined 3D HVIP to ensure the consistency of human movement and extracted 3D skeletons from SMPL parameters.
 
 # 🔬 Research Projects & Competitions {#research-projects-and-competitions}
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <a href="https://arxiv.org/abs/2608.24674">
+        <img src='images/turbot2va.png' alt="TurboT2VA: fast joint text-to-video-audio generation with 54.67× generator-only speedup" width="100%">
+      </a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**
+
+  [**Paper**](https://arxiv.org/abs/2608.24674) | [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va) (arXiv 2026)
+
+  - Accelerated a **19B-parameter** joint video-audio model with progressive consistency distillation from **40 steps to 4 steps**, preserving quality, diversity, and synchronization.
+  - Achieved **20.1× generator speedup** at 512×768 resolution through four-step distillation.
+  - Combined distillation with W8A8 quantization, fused operators, and sparse attention for **54.67× generator-only speedup** at 1024×1792 resolution on one **NVIDIA H20**.
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
