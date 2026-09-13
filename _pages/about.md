@@ -56,7 +56,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**Robust Camera Pose Estimation and 3D Human Reconstruction for Sports Events**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf)
   <br>
-  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, Kun Li
+  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html)
   <br>
   *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Paper**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf) | [**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
   - Proposed a method extending the **RCR (Robust Crowd Reconstruction)** framework to video inputs for sports events.
@@ -136,7 +136,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   
   **National Innovation and Entrepreneurship Training Program** (2024.08 - Present)
   
-  - Advisor: Prof. Kun Li and Assistant Researcher. Jian Ma.
+  - Advisor: Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html) and Assistant Researcher [Jian Ma](https://majian8.github.io/).
   - Focusing on Trusted Projection and 3D Reconstruction for large-scale scenes.
   - Investigating algorithms for non-structured light field data processing.
   </div>
@@ -155,7 +155,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
   **National Innovation and Entrepreneurship Training Program** (2024.04 - 2025.04)
 
-  - **Core Member**. Advisor: Prof. Yu Wang.
+  - **Core Member**. Advisor: Prof. [Yu Wang](https://faculty.tju.edu.cn/wangyu_ai/zh_CN/index.htm).
   - **Status:** Completed (One-year Project).
   - Implemented YOLO-based algorithms for license plate recognition under challenging conditions (high angle, blur, low light).
   - Achieved high accuracy in complex environments.
@@ -170,18 +170,15 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
 - *2024* **National Scholarship** (Ministry of Education of China).
 - *2023* **National Scholarship** (Ministry of Education of China).
-- *2025* **Successful Participant (S Prize)**, MCM/ICM (Mthematical Contest in Modeling).
 
 **Provincial & Regional**
 - *2025* **First Prize**, Lanqiao Cup National Software Talent Competition (C/C++, Tianjin Area).
-- *2024* **Second Prize**, Tianjin Mathematics Competition (Science & Engineering Group).
 - *2024* **First Prize**, Tianjin Arts Performance (Orchestra).
 
 # 🌟 Leadership & Activities {#leadership-and-activities}
 - *2025.09 - Present*: **President**, Student Union, School of Computer Science and Technology, TJU.
 - *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
 - *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
-- *2025.05*: **Champion**, TJU Chess Competition (International Chess).
 
 # 📖 Educations {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
