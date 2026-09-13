@@ -33,6 +33,9 @@ layout: compress
             <span id="busuanzi_container_site_uv">
               <i class="fa fa-user"></i> Visitors: <span id="busuanzi_value_site_uv"></span>
             </span>
+            <div style="margin-top: 0.5em;">
+              Last updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%Y-%m-%d" }}</time>
+            </div>
           </div>
         </div>
       </article>
