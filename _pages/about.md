@@ -19,11 +19,11 @@ redirect_from:
 
 Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
-I am currently a third-year undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**. 
+I am currently an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
 
 My research interests include **Computer Vision**, **3D Reconstruction**, and **Embodied AI**. I am actively involved in research under the supervision of Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html).
 
-I have demonstrated strong capabilities in academic competitions and research. Notably, my team won the **Champion** in the Skeleton Tracking Challenge at **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also been awarded the **National Scholarship** for two consecutive years.
+I have demonstrated strong capabilities in academic competitions and research. Notably, my team won **first place** in the Skeleton Tracking Challenge at **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also been awarded the **National Scholarship** for two consecutive years.
 
 **My Email:** lyx1021@tju.edu.cn
 
@@ -31,7 +31,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2026.08*: &nbsp;🚀 Released [**TurboT2VA**](https://arxiv.org/abs/2608.24674), our framework for fast joint text-to-video-audio generation, achieving **54.67× generator-only speedup** at high resolution on a single NVIDIA H20.
 - *2026.05*: &nbsp;🎉 Paper accepted by **ICML 2026**: [**EgoTSR**](https://arxiv.org/abs/2604.10517) — Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning.
 - *2025.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2024-2025.
-- *2025.06*: &nbsp;🏆 Won the **Champion** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
+- *2025.06*: &nbsp;🏆 Won **first place** in the Skeleton Tracking Challenge at the [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/).
 - *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
 
 # 📝 Publications {#publications}
@@ -168,8 +168,8 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **International & National**
 - *2026* **Paper Accepted**, ICML 2026.
 - *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
-- *2024* **National Scholarship** (Ministry of Education of China).
-- *2023* **National Scholarship** (Ministry of Education of China).
+- *2024–2025 academic year* **National Scholarship** (Ministry of Education of China).
+- *2023–2024 academic year* **National Scholarship** (Ministry of Education of China).
 
 **Provincial & Regional**
 - *2025* **First Prize**, Lanqiao Cup National Software Talent Competition (C/C++, Tianjin Area).
@@ -180,7 +180,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
 - *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
 
-# 📖 Educations {#educations}
+# 📖 Education {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
   - **Program**: Top Talent Training Plan 2.0 (Bajian Class).
-- *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School (山东省青岛第二中学)**.
+- *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School**.
