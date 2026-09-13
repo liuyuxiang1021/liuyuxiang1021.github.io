@@ -78,7 +78,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
   **TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**
 
-  [**Paper**](https://arxiv.org/abs/2608.24674) | [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va) (arXiv 2026)
+  [**Paper**](https://arxiv.org/abs/2608.24674) \| [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va) (arXiv 2026)
 
   - Accelerated a **19B-parameter** joint video-audio model with progressive consistency distillation from **40 steps to 4 steps**, preserving quality, diversity, and synchronization.
   - Achieved **20.1× generator speedup** at 512×768 resolution through four-step distillation.
