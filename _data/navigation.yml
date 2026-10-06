@@ -15,8 +15,8 @@ main:
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  - title: "Leadership & Activities"
-    url: "/#leadership-and-activities"
+  # - title: "Leadership & Activities"
+  #   url: "/#leadership-and-activities"
 
   - title: "Education"
     url: "/#educations"

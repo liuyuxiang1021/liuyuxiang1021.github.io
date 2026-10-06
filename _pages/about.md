@@ -142,6 +142,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   </div>
 </div>
 
+<!--
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -161,6 +162,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   - Achieved high accuracy in complex environments.
   </div>
 </div>
+-->
 
 
 # 🏅 Honors and Awards {#honors-and-awards}
@@ -171,16 +173,20 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024–2025 academic year* **National Scholarship** (Ministry of Education of China).
 - *2023–2024 academic year* **National Scholarship** (Ministry of Education of China).
 
+<!--
 **Provincial & Regional**
 - *2025* **First Prize**, Lanqiao Cup National Software Talent Competition (C/C++, Tianjin Area).
 - *2024* **First Prize**, Tianjin Arts Performance (Orchestra).
+-->
 
+<!--
 # 🌟 Leadership & Activities {#leadership-and-activities}
 - *2025.09 - Present*: **President**, Student Union, School of Computer Science and Technology, TJU.
 - *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
 - *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
+-->
 
 # 📖 Education {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
   - **Program**: Top Talent Training Plan 2.0 (Bajian Class).
-- *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School**.
+<!-- - *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School**. -->
