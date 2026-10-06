@@ -4,4 +4,28 @@
 {% include fetch_google_scholar_stats.html %}
 
 <!-- 不蒜子访客计数器 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+  (function () {
+    var counter = document.getElementById("site-traffic-counter");
+    var totalViews = document.getElementById("busuanzi_value_site_pv");
+    var visitors = document.getElementById("busuanzi_value_site_uv");
+
+    if (!counter || !totalViews || !visitors) {
+      return;
+    }
+
+    var attempts = 0;
+    var maxAttempts = 40;
+    var timer = window.setInterval(function () {
+      attempts += 1;
+
+      if (totalViews.textContent.trim() && visitors.textContent.trim()) {
+        counter.style.display = "block";
+        window.clearInterval(timer);
+      } else if (attempts >= maxAttempts) {
+        window.clearInterval(timer);
+      }
+    }, 250);
+  })();
+</script>
