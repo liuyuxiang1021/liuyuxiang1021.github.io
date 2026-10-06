@@ -21,7 +21,7 @@ Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
 I am currently an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
 
-My research interests include **3D Reconstruction**, **TurboT2VA-related efficient text-to-video-audio generation**, and **multimodal video-audio generation**. I am actively involved in research under the supervision of Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html).
+My research interests include **3D Reconstruction** and **multimodal video-audio generation**. I am actively involved in research under the supervision of Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html).
 
 I have demonstrated strong capabilities in academic competitions and research. Notably, my work was accepted by **ICML 2026**, and my team won **first place** in the Skeleton Tracking Challenge at **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also been awarded the **National Scholarship** for two consecutive years.
 
