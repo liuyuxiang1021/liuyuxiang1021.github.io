@@ -63,6 +63,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   - Designed a relative camera pose search algorithm with a fast line projector to achieve robustness and efficiency.
   - Refined 3D HVIP to ensure the consistency of human movement and extracted 3D skeletons from SMPL parameters.
 
+{% comment %}
 # 🔬 Research Projects & Competitions {#research-projects-and-competitions}
 
 <div class='paper-box'>
@@ -122,6 +123,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
   - Developed a robust method for 3D skeleton tracking in complex unstructured scenarios.
   </div>
 </div>
+{% endcomment %}
 
 {% comment %}
 <div class='paper-box'>
@@ -169,8 +171,10 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 # 🏅 Honors and Awards {#honors-and-awards}
 
+{% comment %}
 **International & National**
 - *2026* **Paper Accepted**, ICML 2026.
+{% endcomment %}
 - *2025.06* **Champion**, FIFA Skeleton Tracking Challenge (CVPR 2025 Workshop).
 - *2024–2025 academic year* **National Scholarship** (Ministry of Education of China).
 - *2023–2024 academic year* **National Scholarship** (Ministry of Education of China).
@@ -185,12 +189,12 @@ I have demonstrated strong capabilities in academic competitions and research. N
 # 🌟 Leadership & Activities {#leadership-and-activities}
 - *2025.09 - Present*: **President**, Student Union, School of Computer Science and Technology, TJU.
 - *2024.09 - Present*: **Vice Head**, Peiyang Folk Orchestra.
-- *2024.09 - 2025.09*: **League Secretary**, Top Talent Class (Bajian Class).
+- *2024.09 - 2025.09*: **League Secretary**, Top-notch Talent Class.
 {% endcomment %}
 
 # 📖 Education {#educations}
 - *2023.09 - Present*, Undergraduate in Computer Science and Technology, **Tianjin University (TJU)**.
-  - **Program**: Top Talent Training Plan 2.0 (Bajian Class).
+  - **Program**: Top-notch Talent Training Plan 2.0 (Top-notch Talent Class).
 {% comment %}
 - *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School**.
 {% endcomment %}
