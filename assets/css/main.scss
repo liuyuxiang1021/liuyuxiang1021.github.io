@@ -40,6 +40,42 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.language-switcher {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.35rem;
+    margin: 0 0 1rem;
+}
+
+.language-switcher__button {
+    min-width: 3rem;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    background: #fff;
+    color: #494e52;
+    cursor: pointer;
+    font-size: 0.75em;
+    font-weight: 600;
+    line-height: 1;
+    padding: 0.45rem 0.65rem;
+}
+
+.language-switcher__button:hover,
+.language-switcher__button:focus {
+    border-color: #7a8288;
+    color: #111;
+}
+
+.language-switcher__button.is-active {
+    background: #494e52;
+    border-color: #494e52;
+    color: #fff;
+}
+
+.language-panel[hidden] {
+    display: none;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

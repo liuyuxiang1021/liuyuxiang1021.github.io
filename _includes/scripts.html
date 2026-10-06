@@ -2,3 +2,77 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+  (function () {
+    var buttons = document.querySelectorAll("[data-language-button]");
+    var panels = document.querySelectorAll("[data-language-panel]");
+
+    if (!buttons.length || !panels.length) {
+      return;
+    }
+
+    var navItems = [
+      { matches: ["#about-me"], enHref: "#about-me", zhHref: "#about-me", en: "About Me", zh: "关于我" },
+      { matches: ["#news", "#news-zh"], enHref: "#news", zhHref: "#news-zh", en: "News", zh: "动态" },
+      { matches: ["#publications", "#publications-zh"], enHref: "#publications", zhHref: "#publications-zh", en: "Publications", zh: "论文发表" },
+      { matches: ["#honors-and-awards", "#honors-and-awards-zh"], enHref: "#honors-and-awards", zhHref: "#honors-and-awards-zh", en: "Honors and Awards", zh: "荣誉奖项" },
+      { matches: ["#educations", "#educations-zh"], enHref: "#educations", zhHref: "#educations-zh", en: "Education", zh: "教育经历" }
+    ];
+
+    function updateNavigation(language) {
+      var navLinks = document.querySelectorAll("#site-nav a");
+
+      navLinks.forEach(function (link) {
+        var hash = link.hash || link.getAttribute("href");
+        var item = navItems.find(function (candidate) {
+          return candidate.matches.indexOf(hash) !== -1;
+        });
+
+        if (!item) {
+          return;
+        }
+
+        link.setAttribute("href", language === "zh" ? item.zhHref : item.enHref);
+
+        if (item.enHref === "#about-me" && link.parentElement && link.parentElement.classList.contains("masthead__menu-home-item")) {
+          link.textContent = language === "zh" ? "首页" : "Homepage";
+        } else {
+          link.textContent = language === "zh" ? item.zh : item.en;
+        }
+      });
+    }
+
+    function setLanguage(language) {
+      panels.forEach(function (panel) {
+        panel.hidden = panel.getAttribute("data-language-panel") !== language;
+      });
+
+      buttons.forEach(function (button) {
+        var active = button.getAttribute("data-language-button") === language;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+
+      document.documentElement.setAttribute("lang", language === "zh" ? "zh-CN" : "en");
+      updateNavigation(language);
+
+      try {
+        window.localStorage.setItem("homepage-language", language);
+      } catch (error) {}
+    }
+
+    buttons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        setLanguage(button.getAttribute("data-language-button"));
+      });
+    });
+
+    var savedLanguage = "en";
+    try {
+      savedLanguage = window.localStorage.getItem("homepage-language") || "en";
+    } catch (error) {}
+
+    setLanguage(savedLanguage === "zh" ? "zh" : "en");
+  })();
+</script>

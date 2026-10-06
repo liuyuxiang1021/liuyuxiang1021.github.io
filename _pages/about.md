@@ -17,6 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="language-switcher" role="group" aria-label="Language switcher">
+  <button type="button" class="language-switcher__button is-active" data-language-button="en">EN</button>
+  <button type="button" class="language-switcher__button" data-language-button="zh">中文</button>
+</div>
+
+<div class="language-panel language-panel--en" data-language-panel="en" markdown="1">
+
 Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
 I am currently an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
@@ -198,3 +205,65 @@ I have demonstrated strong capabilities in academic competitions and research. N
 {% comment %}
 - *2020.09 - 2023.07*, High School, **Shandong Qingdao No. 2 Middle School**.
 {% endcomment %}
+
+</div>
+
+<div class="language-panel language-panel--zh" data-language-panel="zh" markdown="1" hidden>
+
+你好，我是 **刘宇翔（Yuxiang Liu）**。欢迎访问我的个人主页！
+
+我目前是 **天津大学（TJU）智能与计算学部** 计算机科学与技术专业本科生。
+
+我的研究兴趣包括 **三维重建** 和 **多模态音视频生成**。我正在 [李坤教授](https://cic.tju.edu.cn/faculty/likun/index.html) 的指导下参与科研工作。
+
+我在学术竞赛和科研方面积累了较丰富的经历。我的工作被 **ICML 2026** 接收，团队也曾在 **CVPR 2025 Global 3D Human Poses (G3P) Workshop** 的 Skeleton Tracking Challenge 中获得 **第一名**。此外，我连续两年获得 **国家奖学金**。
+
+**邮箱：** lyx1021@tju.edu.cn
+
+# 🔥 动态 {#news-zh}
+- *2026.08*: &nbsp;🚀 发布 [**TurboT2VA**](https://arxiv.org/abs/2608.24674)，一个面向快速联合文本到视频-音频生成的框架，在单张 NVIDIA H20 上实现高分辨率下 **54.67× generator-only 加速**。
+- *2026.05*: &nbsp;🎉 论文 [**EgoTSR**](https://arxiv.org/abs/2604.10517) 被 **ICML 2026** 接收：Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning。
+- *2025.12*: &nbsp;⭐ 获得 **2024-2025 学年国家奖学金**。
+- *2025.06*: &nbsp;🏆 在 [CVPR 2025 G3P Workshop](https://g3p-workshop.github.io/) Skeleton Tracking Challenge 中获得 **第一名**。
+- *2024.12*: &nbsp;⭐ 获得 **2023-2024 学年国家奖学金**。
+
+# 📝 论文发表 {#publications-zh}
+
+- [**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**](https://arxiv.org/abs/2608.24674)
+  <br>
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, Jintao Zhang<sup>†</sup>, Jun Zhu<sup>†</sup>, Zhou Zhao<sup>†</sup>（\* 共同一作，<sup>†</sup> 通讯作者）
+  <br>
+  *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2608.24674) | [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va)\]
+  - 提出 **TurboT2VA**，一个基于 score-regularized consistency distillation 的框架，用于加速 **19B 参数**联合视频-音频模型，同时保持生成质量、多样性与音画同步。
+  - 将 **40 步 teacher 蒸馏为 4 步 student**，结合 progressive discrete consistency warm-up、continuous consistency refinement 与 joint consistency-distribution matching，在 512×768 分辨率下实现 **20.1× generator 加速**。
+  - 结合 W8A8 量化、算子融合与 modality-aware sparse attention，在单张 **NVIDIA H20** 上实现 1024×1792 分辨率下 **54.67× generator-only 加速**（318.74s → 5.83s）。
+
+- [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
+  <br>
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup>（\* 共同一作，<sup>†</sup> 通讯作者）
+  <br>
+  *ICML 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2604.10517) | [**Code**](https://github.com/Collab-Gen/EgoTSR)\]
+  - 提出 **EgoTSR**，一个面向任务导向时空推理的课程学习框架，使模型从显式空间理解逐步演化到长时程规划。
+  - 构建 **EgoTSR-Data**，包含 4600 万样本，覆盖 CoT 监督、弱监督标注和长时程序列三个阶段。
+  - 在长时程逻辑推理任务上达到 **92.4% 准确率**，显著优于现有开源和闭源先进模型。
+
+- [**Robust Camera Pose Estimation and 3D Human Reconstruction for Sports Events**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf)
+  <br>
+  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html)
+  <br>
+  *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Paper**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf) | [**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
+  - 将 **RCR（Robust Crowd Reconstruction）** 框架扩展到体育赛事视频输入。
+  - 设计了带快速线投影器的相对相机位姿搜索算法，以提升鲁棒性和效率。
+  - 优化 3D HVIP 以保证人体运动一致性，并从 SMPL 参数中提取 3D 骨架。
+
+# 🏅 荣誉奖项 {#honors-and-awards-zh}
+
+- *2025.06* **冠军**，FIFA Skeleton Tracking Challenge（CVPR 2025 Workshop）。
+- *2024-2025 学年* **国家奖学金**（中华人民共和国教育部）。
+- *2023-2024 学年* **国家奖学金**（中华人民共和国教育部）。
+
+# 📖 教育经历 {#educations-zh}
+- *2023.09 - 至今*，**天津大学（TJU）**，计算机科学与技术专业本科生。
+  - **项目：** 拔尖学生培养计划 2.0（拔尖班）。
+
+</div>
