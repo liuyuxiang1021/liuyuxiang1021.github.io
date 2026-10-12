@@ -46,7 +46,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
   <br>
-  Xiaoda Yang, Can Wang, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan
+  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan (\* equal contribution)
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
   - Introduced a framework for diagnosing and improving order-robust task-progress understanding in egocentric scenarios.
@@ -242,7 +242,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
   <br>
-  Xiaoda Yang, Can Wang, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan
+  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan（\* 共同一作）
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
   - 提出一个用于诊断和提升第一视角任务进展理解能力的框架，强调对输入顺序变化保持鲁棒。
