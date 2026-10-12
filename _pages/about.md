@@ -35,6 +35,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **My Email:** lyx1021@tju.edu.cn
 
 # 🔥 News {#news}
+- *2026.09*: &nbsp;🚀 Released [**EgoTSR++**](https://arxiv.org/abs/2609.31751), a framework for egocentric spatiotemporal reasoning and task-progress understanding.
 - *2026.08*: &nbsp;🚀 Released [**TurboT2VA**](https://arxiv.org/abs/2608.24674), our framework for fast joint text-to-video-audio generation, achieving **54.67× generator-only speedup** at high resolution on a single NVIDIA H20.
 - *2026.05*: &nbsp;🎉 Paper accepted by **ICML 2026**: [**EgoTSR**](https://arxiv.org/abs/2604.10517) — Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning.
 - *2025.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2024-2025.
@@ -42,6 +43,15 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
 
 # 📝 Publications {#publications}
+
+- [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
+  <br>
+  Xiaoda Yang, Can Wang, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan
+  <br>
+  *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
+  - Introduced a framework for diagnosing and improving order-robust task-progress understanding in egocentric scenarios.
+  - Built **SpatialLogic-Bench** to evaluate physical state pairs in both original and order-swapped presentations, exposing input-order bias in representative VLMs.
+  - Combined bidirectional supervision, failure-aware data, and a progressive CoT-to-Tag curriculum, achieving **92.4% long-horizon accuracy** and improving non-monotonic trajectory understanding.
 
 - [**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**](https://arxiv.org/abs/2608.24674)
   <br>
@@ -221,6 +231,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 **邮箱：** lyx1021@tju.edu.cn
 
 # 🔥 动态 {#news-zh}
+- *2026.09*: &nbsp;🚀 发布 [**EgoTSR++**](https://arxiv.org/abs/2609.31751)，一个面向第一视角时空推理与任务进展理解的框架。
 - *2026.08*: &nbsp;🚀 发布 [**TurboT2VA**](https://arxiv.org/abs/2608.24674)，一个面向快速联合文本到视频-音频生成的框架，在单张 NVIDIA H20 上实现高分辨率下 **54.67× generator-only 加速**。
 - *2026.05*: &nbsp;🎉 论文 [**EgoTSR**](https://arxiv.org/abs/2604.10517) 被 **ICML 2026** 接收：Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning。
 - *2025.12*: &nbsp;⭐ 获得 **2024-2025 学年国家奖学金**。
@@ -228,6 +239,15 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024.12*: &nbsp;⭐ 获得 **2023-2024 学年国家奖学金**。
 
 # 📝 论文发表 {#publications-zh}
+
+- [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
+  <br>
+  Xiaoda Yang, Can Wang, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan
+  <br>
+  *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
+  - 提出一个用于诊断和提升第一视角任务进展理解能力的框架，强调对输入顺序变化保持鲁棒。
+  - 构建 **SpatialLogic-Bench**，在原始顺序和交换顺序下评估物理状态对，揭示代表性 VLM 中存在的输入顺序偏差。
+  - 结合双向监督、失败感知数据和 progressive CoT-to-Tag curriculum，达到 **92.4% 长时程准确率**，并提升非单调轨迹理解能力。
 
 - [**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**](https://arxiv.org/abs/2608.24674)
   <br>
