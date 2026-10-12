@@ -26,11 +26,13 @@ redirect_from:
 
 Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
-I am currently an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
+I am an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
 
-My research interests include **3D Reconstruction** and **multimodal video-audio generation**. I am actively involved in research under the supervision of Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html).
+My research interests include **3D Reconstruction** and **multimodal video-audio generation**.
 
-I have demonstrated strong capabilities in academic competitions and research. Notably, my work was accepted by **ICML 2026**, and my team won **first place** in the Skeleton Tracking Challenge at **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also been awarded the **National Scholarship** for two consecutive years.
+I have worked on egocentric spatiotemporal reasoning, efficient text-to-video-audio generation, and 3D human reconstruction.
+
+My work has been accepted by **ICML 2026**, and my team won **first place** in the Skeleton Tracking Challenge at the **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also received the **National Scholarship** for two consecutive years.
 
 **My Email:** lyx1021@tju.edu.cn
 
@@ -43,10 +45,11 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024.12*: &nbsp;⭐ Awarded the **National Scholarship** for the academic year 2023-2024.
 
 # 📝 Publications {#publications}
+(* co-first author, † corresponding author)
 
 - [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
   <br>
-  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan (\* equal contribution)
+  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
   - Introduced a framework for diagnosing and improving order-robust task-progress understanding in egocentric scenarios.
@@ -55,7 +58,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**](https://arxiv.org/abs/2608.24674)
   <br>
-  Xiaoda Yang\*, **Yuxiang Liu**\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, Jintao Zhang<sup>†</sup>, Jun Zhu<sup>†</sup>, Zhou Zhao<sup>†</sup> (\* equal contribution, <sup>†</sup> corresponding authors)
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, Jintao Zhang<sup>†</sup>, Jun Zhu<sup>†</sup>, Zhou Zhao<sup>†</sup>
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2608.24674) | [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va)\]
   - Proposed **TurboT2VA**, a score-regularized consistency distillation framework that accelerates a **19B-parameter** joint video-audio model while preserving quality, diversity, and synchronization.
@@ -64,7 +67,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
   <br>
-  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup> (\* equal contribution, <sup>†</sup> corresponding author)
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup>
   <br>
   *ICML 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2604.10517) | [**Code**](https://github.com/Collab-Gen/EgoTSR)\]
   - Proposed **EgoTSR**, a curriculum-based framework for learning task-oriented spatiotemporal reasoning that evolves from explicit spatial understanding to long-horizon planning.
@@ -73,7 +76,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**Robust Camera Pose Estimation and 3D Human Reconstruction for Sports Events**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf)
   <br>
-  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html)
+  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, Kun Li<sup>†</sup>
   <br>
   *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Paper**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf) | [**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
   - Proposed a method extending the **RCR (Robust Crowd Reconstruction)** framework to video inputs for sports events.
@@ -222,11 +225,13 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 你好，我是 **刘宇翔（Yuxiang Liu）**。欢迎访问我的个人主页！
 
-我目前是 **天津大学（TJU）智能与计算学部** 计算机科学与技术专业本科生。
+我是 **天津大学（TJU）智能与计算学部** 计算机科学与技术专业本科生。
 
-我的研究兴趣包括 **三维重建** 和 **多模态音视频生成**。我正在 [李坤教授](https://cic.tju.edu.cn/faculty/likun/index.html) 的指导下参与科研工作。
+我的研究兴趣包括 **三维重建** 和 **多模态音视频生成**。
 
-我在学术竞赛和科研方面积累了较丰富的经历。我的工作被 **ICML 2026** 接收，团队也曾在 **CVPR 2025 Global 3D Human Poses (G3P) Workshop** 的 Skeleton Tracking Challenge 中获得 **第一名**。此外，我连续两年获得 **国家奖学金**。
+我的相关工作涉及第一视角时空推理、高效文本到视频-音频生成和三维人体重建。
+
+我的工作被 **ICML 2026** 接收，团队曾在 **CVPR 2025 Global 3D Human Poses (G3P) Workshop** 的 Skeleton Tracking Challenge 中获得 **第一名**。此外，我连续两年获得 **国家奖学金**。
 
 **邮箱：** lyx1021@tju.edu.cn
 
@@ -239,10 +244,11 @@ I have demonstrated strong capabilities in academic competitions and research. N
 - *2024.12*: &nbsp;⭐ 获得 **2023-2024 学年国家奖学金**。
 
 # 📝 论文发表 {#publications-zh}
+（* 共同一作，† 通讯作者）
 
 - [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
   <br>
-  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan（\* 共同一作）
+  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
   - 提出一个用于诊断和提升第一视角任务进展理解能力的框架，强调对输入顺序变化保持鲁棒。
@@ -251,7 +257,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation**](https://arxiv.org/abs/2608.24674)
   <br>
-  Xiaoda Yang\*, **Yuxiang Liu**\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, Jintao Zhang<sup>†</sup>, Jun Zhu<sup>†</sup>, Zhou Zhao<sup>†</sup>（\* 共同一作，<sup>†</sup> 通讯作者）
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Kaiwen Zheng, Yuan Liu, Yibo Lai, Shengpeng Ji, Kai Jiang, Jianfei Chen, Shan Yang, Sen Liang, Xiaobin Hu, Shuicheng Yan, Jintao Zhang<sup>†</sup>, Jun Zhu<sup>†</sup>, Zhou Zhao<sup>†</sup>
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2608.24674) | [**Code & Demos**](https://github.com/thu-ml/TurboDiffusion/tree/main/turbot2va)\]
   - 提出 **TurboT2VA**，一个基于 score-regularized consistency distillation 的框架，用于加速 **19B 参数**联合视频-音频模型，同时保持生成质量、多样性与音画同步。
@@ -260,7 +266,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**From Perception to Planning: Evolving Ego-Centric Task-Oriented Spatiotemporal Reasoning via Curriculum Learning**](https://arxiv.org/abs/2604.10517)
   <br>
-  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup>（\* 共同一作，<sup>†</sup> 通讯作者）
+  Xiaoda Yang\*, **Yuxiang Liu**\*, Shenzhou Gao, Can Wang, Jingyang Xue, Lixin Yang, Yao Mu, Tao Jin, Shuicheng Yan, Zhimeng Zhang, Zhou Zhao<sup>†</sup>
   <br>
   *ICML 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2604.10517) | [**Code**](https://github.com/Collab-Gen/EgoTSR)\]
   - 提出 **EgoTSR**，一个面向任务导向时空推理的课程学习框架，使模型从显式空间理解逐步演化到长时程规划。
@@ -269,7 +275,7 @@ I have demonstrated strong capabilities in academic competitions and research. N
 
 - [**Robust Camera Pose Estimation and 3D Human Reconstruction for Sports Events**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf)
   <br>
-  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html)
+  Jing Huang, Hanrong Zhuang, Lin Zhang, **Yuxiang Liu**, Kun Li<sup>†</sup>
   <br>
   *Technical Report for FIFA Skeleton Light Challenge 2025* &nbsp;\[[**Paper**](https://g3p-workshop.github.io/assets/pdfs/solution-tim.pdf) | [**Slides**](https://g3p-workshop.github.io/assets/pdfs/talk-hj.pdf)\]
   - 将 **RCR（Robust Crowd Reconstruction）** 框架扩展到体育赛事视频输入。
