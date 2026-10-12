@@ -26,11 +26,11 @@ redirect_from:
 
 Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
-I am an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
+I am currently an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
 
-My research interests include **3D Reconstruction** and **multimodal video-audio generation**.
+My research interests include **3D Reconstruction** and **multimodal video-audio generation**. I am actively involved in research under the supervision of Prof. [Kun Li](https://cic.tju.edu.cn/faculty/likun/index.html).
 
-My published and publicly available works include **EgoTSR++** (arXiv 2026), **TurboT2VA** (arXiv 2026), **EgoTSR** (ICML 2026), and a technical report for the **CVPR 2025 G3P Workshop**.
+I have demonstrated strong capabilities in academic competitions and research. Notably, my work was accepted by **ICML 2026**, and my team won **first place** in the Skeleton Tracking Challenge at **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also been awarded the **National Scholarship** for two consecutive years.
 
 **My Email:** lyx1021@tju.edu.cn
 
@@ -46,7 +46,7 @@ My published and publicly available works include **EgoTSR++** (arXiv 2026), **T
 
 - [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
   <br>
-  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan<sup>†</sup> (\* equal contribution, <sup>†</sup> corresponding author)
+  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan (\* equal contribution)
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
   - Introduced a framework for diagnosing and improving order-robust task-progress understanding in egocentric scenarios.
@@ -222,11 +222,11 @@ My published and publicly available works include **EgoTSR++** (arXiv 2026), **T
 
 你好，我是 **刘宇翔（Yuxiang Liu）**。欢迎访问我的个人主页！
 
-我是 **天津大学（TJU）智能与计算学部** 计算机科学与技术专业本科生。
+我目前是 **天津大学（TJU）智能与计算学部** 计算机科学与技术专业本科生。
 
-我的研究兴趣包括 **三维重建** 和 **多模态音视频生成**。
+我的研究兴趣包括 **三维重建** 和 **多模态音视频生成**。我正在 [李坤教授](https://cic.tju.edu.cn/faculty/likun/index.html) 的指导下参与科研工作。
 
-我已公开发表或发布的工作包括 **EgoTSR++**（arXiv 2026）、**TurboT2VA**（arXiv 2026）、**EgoTSR**（ICML 2026），以及 **CVPR 2025 G3P Workshop** 技术报告。
+我在学术竞赛和科研方面积累了较丰富的经历。我的工作被 **ICML 2026** 接收，团队也曾在 **CVPR 2025 Global 3D Human Poses (G3P) Workshop** 的 Skeleton Tracking Challenge 中获得 **第一名**。此外，我连续两年获得 **国家奖学金**。
 
 **邮箱：** lyx1021@tju.edu.cn
 
@@ -242,7 +242,7 @@ My published and publicly available works include **EgoTSR++** (arXiv 2026), **T
 
 - [**EgoTSR++: Egocentric Spatiotemporal Reasoning for Task Progress Understanding**](https://arxiv.org/abs/2609.31751)
   <br>
-  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan<sup>†</sup>（\* 共同一作，<sup>†</sup> 通讯作者）
+  Xiaoda Yang\*, Can Wang\*, **Yuxiang Liu**, Pengfei Zhou, Jianwen Lou, Shuicheng Yan（\* 共同一作）
   <br>
   *arXiv preprint, 2026* &nbsp;\[[**Paper**](https://arxiv.org/abs/2609.31751)\]
   - 提出一个用于诊断和提升第一视角任务进展理解能力的框架，强调对输入顺序变化保持鲁棒。
