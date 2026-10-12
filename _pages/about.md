@@ -28,9 +28,7 @@ Hi, I'm **Yuxiang Liu (刘宇翔)**. Welcome to my homepage!
 
 I am an undergraduate student at the College of Intelligence and Computing, **Tianjin University (TJU)**.
 
-My research interests include **3D Reconstruction** and **multimodal video-audio generation**.
-
-I have worked on egocentric spatiotemporal reasoning, efficient text-to-video-audio generation, and 3D human reconstruction.
+My research interests include **3D Reconstruction**, **multimodal video-audio generation**, and **egocentric spatiotemporal reasoning**.
 
 My work has been accepted by **ICML 2026**, and my team won **first place** in the Skeleton Tracking Challenge at the **CVPR 2025 Global 3D Human Poses (G3P) Workshop**. I have also received the **National Scholarship** for two consecutive years.
 
@@ -227,9 +225,7 @@ My work has been accepted by **ICML 2026**, and my team won **first place** in t
 
 我是 **天津大学（TJU）智能与计算学部** 计算机科学与技术专业本科生。
 
-我的研究兴趣包括 **三维重建** 和 **多模态音视频生成**。
-
-我的相关工作涉及第一视角时空推理、高效文本到视频-音频生成和三维人体重建。
+我的研究兴趣包括 **三维重建**、**多模态音视频生成** 和 **第一视角时空推理**。
 
 我的工作被 **ICML 2026** 接收，团队曾在 **CVPR 2025 Global 3D Human Poses (G3P) Workshop** 的 Skeleton Tracking Challenge 中获得 **第一名**。此外，我连续两年获得 **国家奖学金**。
 
